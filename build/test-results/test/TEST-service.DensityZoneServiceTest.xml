@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.DensityZoneServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-04T16:46:23" hostname="DESKTOP-6NKE8PL" time="0.015">
+  <properties/>
+  <testcase name="should return 2 expected densest zone()" classname="service.DensityZoneServiceTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
